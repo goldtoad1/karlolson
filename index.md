@@ -1,4 +1,4 @@
-# Welcome to Karl Olson's Extremely Simple Yet Highly Productive 90s Webpage 
+# Welcome to Karl Olson's Extremely Simple Yet Highly Productive 90s Webpage
 
 ### Background:
 15 years military experience in operating global scale networks. Have served as Senior Network Engineer for southern Iraq, and the in the Pacific. Focused on long haul transport and satellite communication solutions along with the integration of classified networks with international partners. Additionally have served as Assistant Professor of Computer Science for the United States Military Academy and University of Maryland Global Campus. Heavy experience on leading diverse teams to develop technical solutions to unique and timely problems. 
