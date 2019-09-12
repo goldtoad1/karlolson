@@ -54,7 +54,7 @@
 4. [link](https://365.csaw.io/register) - Great CTF practice environment.
 There are tons of other sites/trainings/etc out there. The above is usually my go-to sites. A quick google and you will find more. This stuff can be addictive and fun. If you find you really enjoy these things, recommend joining the CU Cyber team (finer details to follow).
 
-###Recommended Reading:
+### Recommended Reading:
 
 -Beginner Books:
 --Violent Python (python scripting for attacks)
