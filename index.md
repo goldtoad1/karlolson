@@ -59,6 +59,7 @@ There are tons of other sites/trainings/etc out there. The above is usually my g
 -Beginner Books:
 --Violent Python (python scripting for attacks)
 --Red Team Field Manual (Linux command/cheatsheets)
+
 -Advanced books:
 --Beginners Guide to IDA Pro (Reverse Engineering)
 --Fuzzing for Fun and Profit
