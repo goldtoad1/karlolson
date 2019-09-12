@@ -1,4 +1,7 @@
-# Welcome to Karl Olson's Webpage 
+# Welcome to Karl Olson's Extremely Simple Yet Highly Productive 90s Webpage 
+
+### Background:
+15 years military experience in operating global scale networks. Have served as Senior Network Engineer for southern Iraq, and the in the Pacific. Focused on long haul transport and satellite communication solutions along with the integration of classified networks with international partners. Additionally have served as Assistant Professor of Computer Science for the United States Military Academy and University of Maryland Global Campus. Heavy experience on leading diverse teams to develop technical solutions to unique and timely problems. 
 
 ### Research Interests:
 - Network Security
@@ -43,27 +46,29 @@
 - CCNA Cyber Ops, 2018
 - CCNA R&S, 2018
 
+
+
 ### Cyber Resources/ Open Source Training & Events:
 
-1. [link](https://ctftime.org/) - List of CTF competitions. Check Archive/Writeups and then go to competition and do the attacks. Note, some competitions close servers, some stay up. You will have to search to find ones that you can still register/do, but the writeups are great. This is the ‘Official’ CTF competition ranking site and list of competitions worldwide. Best thing to do is register, compete (don’t worry if you don’t even get one right), then read the writeups after competitions and retry. 
+1. [CTFTime.org](https://ctftime.org/) - List of CTF competitions. Check Archive/Writeups and then go to competition and do the attacks. Note, some competitions close servers, some stay up. You will have to search to find ones that you can still register/do, but the writeups are great. This is the ‘Official’ CTF competition ranking site and list of competitions worldwide. Best thing to do is register, compete (don’t worry if you don’t even get one right), then read the writeups after competitions and retry. 
 
-2. [link](https://www.captf.com/practice-ctf/) - Great list of free always on hackable websites/challenges/etc. Practice!
+2. [CAPTF.com](https://www.captf.com/practice-ctf/) - Great list of free always on hackable websites/challenges/etc. Practice!
 
-3. [link](https://www.offensive-security.com/) - OK, we are all broke and money is tight. When you get the chance, this course costs ~$1k. It is the best course I have ever taken. You are given access to a corporate network of 50+ systems/servers as a lab, the course teaches you A LOT about linux, scripting, pen-testing, etc. Then the test is a 48 hour pentest of a corporate network w/ full report write-up. Highly respected certification in pen-test arena’s and worth the price of admission (this is only cert/company I will say that about). Gives you 90 days lab access. Note: Plan to spend about 2-3 hours/day for the 90 days to complete this successfully.
+3. [offensive-security.com](https://www.offensive-security.com/) - OK, we are all broke and money is tight. When you get the chance, this course costs ~$1k. It is the best course I have ever taken. You are given access to a corporate network of 50+ systems/servers as a lab, the course teaches you A LOT about linux, scripting, pen-testing, etc. Then the test is a 48 hour pentest of a corporate network w/ full report write-up. Highly respected certification in pen-test arena’s and worth the price of admission (this is only cert/company I will say that about). Gives you 90 days lab access. Note: Plan to spend about 2-3 hours/day for the 90 days to complete this successfully.
 
-4. [link](https://365.csaw.io/register) - Great CTF practice environment.
+4. [CSAW365](https://365.csaw.io/register) - Great CTF practice environment.
 There are tons of other sites/trainings/etc out there. The above is usually my go-to sites. A quick google and you will find more. This stuff can be addictive and fun. If you find you really enjoy these things, recommend joining the CU Cyber team (finer details to follow).
 
 ### Recommended Reading:
 
 1. Beginner Books:
--Violent Python (python scripting for attacks)
--Red Team Field Manual (Linux command/cheatsheets)
+- Violent Python (python scripting for attacks)
+- Red Team Field Manual (Linux command/cheatsheets)
 
 2. Advanced books:
--Beginners Guide to IDA Pro (Reverse Engineering)
--Fuzzing for Fun and Profit
--Practical Malware Analysis
+- Beginners Guide to IDA Pro (Reverse Engineering)
+- Fuzzing for Fun and Profit
+- Practical Malware Analysis
 
 
 
